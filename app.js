@@ -15,9 +15,9 @@ function onclicking() {
   text.value = "";
 }
 
-// function deleteAll() {
+function deleteAll() {
 //   list.innerHTML = "";
-// }
+}
 
 // function edit(){
 // }
