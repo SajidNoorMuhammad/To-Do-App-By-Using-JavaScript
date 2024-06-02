@@ -19,8 +19,8 @@ function deleteAll() {
   list.innerHTML = "";
 }
 
-// function edit(){
-// }
+function edit(){
+}
 
 // function delet(){
 // }
