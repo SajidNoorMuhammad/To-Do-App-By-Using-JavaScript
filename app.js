@@ -1,5 +1,5 @@
 var text = document.getElementById("text");
-// var list = document.getElementById("list");
+var list = document.getElementById("list");
 
 // function todoApp(event) {
 //   var val = event.target;
