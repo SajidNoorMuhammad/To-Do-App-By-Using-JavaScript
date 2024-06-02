@@ -62,14 +62,14 @@ h1{
     text-transform: capitalize;
 }
 
-/* .userinput{
+.userinput{
     text-align: left;
     padding-top: 20px;
     border: none;
     background: inherit;
     font-size: 25px;
     color: black;
-} */
+}
 
 /* .edit{
     padding: 15px;
