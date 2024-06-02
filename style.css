@@ -35,7 +35,7 @@ h1{
     font-size: 25px;
 }
 
-/* .contain>.addTask{
+.contain>.addTask{
     padding: 20px 30px;
     font-size: 20px;
     border-radius: 40px;
@@ -44,7 +44,7 @@ h1{
     color: white;
     font-weight: bold;
     margin-top: 5%;
-} */
+}
 
 /* .contain>.DeleteTask{
     padding: 20px 30px;
