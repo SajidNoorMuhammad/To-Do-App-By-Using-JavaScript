@@ -12,7 +12,7 @@ function todoApp(event) {
 function onclicking() {
   list.innerHTML += `<li><input class= 'userinput textjs' type='text' value='${text.value}' disabled > 
   <button class='edit'>Edit</button class='delete'><button class='delete' onclick= "delet()">Delete</button> <br>`
-//   text.value = "";
+  text.value = "";
 }
 
 // function deleteAll() {
