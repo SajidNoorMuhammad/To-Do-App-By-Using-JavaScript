@@ -22,14 +22,14 @@ h1{
     text-decoration: underline;
 }
 
-/* .input{
+.input{
     padding: 20px;
     width: 70%;
     font-size: 25px;
     outline: none;
     border: none;
     box-shadow: 0px 0px 18px palevioletred;
-} */
+}
 
 /* ::placeholder{
     font-size: 25px;
