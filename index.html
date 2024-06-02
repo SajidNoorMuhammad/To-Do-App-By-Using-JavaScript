@@ -9,10 +9,10 @@
 <body>
     <div class="contain">
         <h1>To Do App</h1>
-        <input class="input" id="text" type="text" placeholder="Enter Your Task Here">
+        <input class="input" id="text" type="text" onkeydown="todoApp(event)" placeholder="Enter Your Task Here">
         <br>
-        <button class="addTask" onclick="todoApp(event)" onkeydown="todoApp()">Add Task</button>
-        <button class="DeleteTask">Delete All</button>
+        <button class="addTask" onclick="onclicking()" >Add Task</button>
+        <button class="DeleteTask" onclick="deleteAll()">Delete All</button>
 
         <ul id="list"></ul>
     </div>
