@@ -16,7 +16,7 @@ function onclicking() {
 }
 
 function deleteAll() {
-//   list.innerHTML = "";
+  list.innerHTML = "";
 }
 
 // function edit(){
