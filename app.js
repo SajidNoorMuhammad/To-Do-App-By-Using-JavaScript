@@ -22,5 +22,5 @@ function deleteAll() {
 function edit(){
 }
 
-// function delet(){
-// }
+function delet(){
+}
